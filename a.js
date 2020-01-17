@@ -1,3 +1,4 @@
 function foo() {
-    alert('hello world')
+    alert('hello world');
 }
+foo()
